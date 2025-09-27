@@ -1,5 +1,13 @@
 # Hi, my name is (what), my name is (who), my name is 
 
+***
+
+<div align="center">
+  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
 ### About me
 
 I am currently studying at Altai State Technical University (AltSTU) in the field of software engineering.
@@ -8,7 +16,12 @@ I graduated from college with a degree in Information Systems and Information Te
 
 I've worked on a variety of projects. Among the most interesting are an Android app for hailing a taxi, a system for calculating company employee KPIs, a technical support chatbot with AI, an automated warehouse system, and other projects.
 
-### Technologies stack 
+<div align="center">
+  
+### Technologies stack
+
+</div>
+
 ---
 ### Languages
 ##### Most used
@@ -52,6 +65,7 @@ I've worked on a variety of projects. Among the most interesting are an Android 
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ---
+
 <!--
 **Shuupa/Shuupa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
