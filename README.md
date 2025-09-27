@@ -1,7 +1,9 @@
 ## Hi there 👋
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shuupa&theme=solarized_dark)
+Technologies stack | 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Shuupa&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <!--
 **Shuupa/Shuupa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
