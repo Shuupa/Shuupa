@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shuupa&theme=solarized_dark)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=lOolKoOR5L&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <!--
 **Shuupa/Shuupa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
