@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shuupa&theme=solarized_dark)
+
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Shuupa&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <!--
