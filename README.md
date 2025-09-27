@@ -1,5 +1,12 @@
 # Hi, my name is (what), my name is (who), my name is 
 
+### About me
+
+I am currently studying at Altai State Technical University (AltSTU) in the field of software engineering.
+
+I graduated from college with a degree in Information Systems and Information Technology (ISIP).
+
+I've worked on a variety of projects. Among the most interesting are an Android app for hailing a taxi, a system for calculating company employee KPIs, a technical support chatbot with AI, an automated warehouse system, and other projects.
 
 ### Technologies stack 
 ---
